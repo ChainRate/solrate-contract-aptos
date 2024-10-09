@@ -1,0 +1,1 @@
+# solrate-contract-aptos
